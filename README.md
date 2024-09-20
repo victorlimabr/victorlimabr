@@ -1,6 +1,6 @@
 ## Olá, me chamo João Victor Lima! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="40" height="40" />
 
-Desenvolvedor Web com experiência prática em projetos, focado na implementação e otimização de aplicações, sou  entusiasta no desenvolvimento de aplicativos móveis e web, sempre buscando explorar novas soluções e inovações no mundo digital.
+Desenvolvedor Web/Mobile com experiência prática em projetos, focado na implementação e otimização de aplicações, sou  entusiasta no desenvolvimento de aplicativos móveis e web, sempre buscando explorar novas soluções e inovações no mundo digital.
 
 📚 Graduando em Ciências da Computação pela Universidade De Santa Catarina Unisociesc.
 
