@@ -4,8 +4,6 @@ Desenvolvedor Web/Mobile com experiência prática em projetos, focado na implem
 
 📚 Graduando em Ciências da Computação pela Universidade De Santa Catarina Unisociesc.
 
-👨🏿‍💻 2 anos de experiência em desenvolvimento de software.
-
 💻 Desenvolvedor Web/Mobile com habilidades em Dart, Flutter e Android.
 
 💡 Foco em soluções eficientes e aprimoramento contínuo.
