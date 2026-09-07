@@ -42,8 +42,9 @@ Graduando em **Ciências da Computação** pela Unisociesc.
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=victorlimabr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e293b&ring=3b82f6&fire=3b82f6&currStreakLabel=e2e8f0&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=victorlimabr&theme=gitdimmed&no-frame=true&no-bg=true&column=3&margin-w=4" />
+<img width="55%" src="https://streak-stats.demolab.com/?user=victorlimabr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e293b&ring=3b82f6&fire=3b82f6&currStreakLabel=e2e8f0&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=victorlimabr&theme=github-compact&hide_border=true&bg_color=0d1117&color=94a3b8&line=3b82f6&point=e2e8f0&area=true&area_color=3b82f6" />
 
 </div>
 
