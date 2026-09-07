@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=160&section=header&text=Jo%C3%A3o%20Victor%20Duarte&fontSize=36&fontColor=e2e8f0&fontAlignY=55&desc=Mobile%20%26%20Fullstack%20Developer%20%7C%20Flutter%20%2F%20Node.js%20%2F%20TypeScript&descSize=16&descAlignY=75&descColor=64748b" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=160&section=header&text=João%20Victor%20Duarte&fontSize=36&fontColor=e2e8f0&fontAlignY=55&desc=Fullstack%20Developer%20%7C%20Mobile%20%7C%20Clean%20Architecture&descSize=16&descAlignY=75&descColor=64748b" />
 
 </div>
 
@@ -9,9 +9,9 @@
 
 ### Sobre mim
 
-📱 No **mobile**, atuo com Flutter e Dart em produção — apps publicados na Google Play e App Store, aplicando **Clean Architecture**, **SOLID** e gerenciamento de estado com **BLoC/Cubit** e **ValueNotifier**.
+📱 No **mobile**, atuo com Flutter e Dart, aplicando **Clean Architecture**, **SOLID** e gerenciamento de estado com **BLoC/Cubit** e **ValueNotifier**.
 
-🖥️ No **backend**, desenvolvo APIs com Node.js e TypeScript, além de experiência com PHP/Laravel em sistemas de logística e ERP. Tenho atuado em fintechs e produtos B2B, o que me deu visão do fluxo completo entre cliente, servidor e banco de dados.
+🖥️ No **backend**, desenvolvo APIs com Node.js e TypeScript, tenho atuado em fintechs e produtos B2B, o que me deu visão do fluxo completo entre cliente, servidor e banco de dados.
 
 🎓 Graduando em **Ciência da Computação** pela Unisociesc.
 
