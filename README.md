@@ -9,19 +9,19 @@
 
 ### Sobre mim
 
-Desenvolvedor Fullstack focado em construir soluções eficientes, performáticas e bem estruturadas. Trabalho no time da **@multiplierx** e estou sempre buscando evoluir tecnicamente — entendendo o funcionamento completo das aplicações, do mobile ao backend.
+Desenvolvedor Mobile/Fullstack focado em construir soluções eficientes, performáticas e bem estruturadas. estou sempre buscando evoluir tecnicamente entendendo o funcionamento completo das aplicações, do mobile ao backend.
 
-Graduando em **Ciências da Computação** pela Universidade De Santa Catarina (Unisociesc).
+Graduando em **Ciências da Computação** pela Unisociesc.
 
 ---
 
 ### O que estou construindo
 
-- **Mobile** — Apps Flutter com arquitetura limpa, Dart, integração com APIs REST e Firebase
-- **Backend** — APIs com Node.js e TypeScript, arquitetura em camadas, Express e NestJS
-- **Mensageria** — Integrações com RabbitMQ e Kafka para sistemas assíncronos e escaláveis
-- **Banco de dados** — PostgreSQL, MySQL e modelagem relacional
-- **Infra** — Docker, deploys em cloud, CI/CD pipelines
+- **Mobile** - Apps Flutter com arquitetura limpa, Dart, integração com APIs REST e Firebase
+- **Backend** - APIs com Node.js e TypeScript, arquitetura em camadas, Express e NestJS
+- **Mensageria** - Integrações com RabbitMQ e Kafka para sistemas assíncronos e escaláveis
+- **Banco de dados** - PostgreSQL, MySQL e modelagem relacional
+- **Infra** - Docker, deploys em cloud, CI/CD pipelines
 
 ---
 
